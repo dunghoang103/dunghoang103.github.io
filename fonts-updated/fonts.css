@@ -1,16 +1,13 @@
-
 @font-face {
   font-family: AkkuratPro;
-  src: local(AkkuratPro-Regular),
-    url(AkkuratPro-Regular.otf) format("opentype");
+  src: local(AkkuratPro-Regular), url(AkkuratPro-Regular.otf) format("opentype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: AkkuratPro;
-  src: local(AkkuratPro-Bold),
-    url(AkkuratPro-Bold.otf) format("opentype");
+  src: local(AkkuratPro-Bold), url(AkkuratPro-Bold.otf) format("opentype");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -27,6 +24,49 @@
   font-family: ChronicleTextG1-Roman;
   src: local(ChronicleTextG1-Roman),
     url(ChronicleTextG1-Roman.otf) format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: GeorgiaBoldItalic;
+  src: local(GeorgiaBoldItalic), url(GeorgiaBoldItalic.otf) format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Georgia;
+  src: local(Georgia), url(Georgia.otf) format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: GeorgiaBold;
+  src: local(GeorgiaBold), url(GeorgiaBold.otf) format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: GeorgiaItalic;
+  src: local(GeorgiaItalic), url(GeorgiaItalic.otf) format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: MrPorterStd;
+  src: local(MrPorterStd), url(MrPorterStd.otf) format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: SackersGothicStd-Heavy;
+  src: local(SackersGothicStd-Heavy),
+    url(SackersGothicStd-Heavy.otf) format("opentype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
