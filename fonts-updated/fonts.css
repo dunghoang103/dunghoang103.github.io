@@ -71,3 +71,37 @@
   font-style: normal;
   font-display: swap;
 }
+
+@font-face {
+  font-family: theOutnet;
+  src: local(THEOUTNET-Body), url(THEOUTNET-Body.otf) format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: theOutnetItalic;
+  src: local(THEOUTNET-BodyItalic),
+    url(THEOUTNET-BodyItalic.otf) format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: theOutnetBold;
+  src: local(THEOUTNET-Bold), url(THEOUTNET-Bold.otf) format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: theOutnetBoldItalic;
+  src: local(THEOUTNET-BoldItalic),
+    url(THEOUTNET-BoldItalic.otf) format("opentype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
