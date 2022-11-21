@@ -34,7 +34,7 @@
 @font-face {
   font-family: "BrandonLight";
   font-style: normal;
-  font-weight: normal;
+  font-weight: 700;
   src: local(Brandon_light), url(Brandon_light.otf) format("opentype");
 }
 @font-face {
